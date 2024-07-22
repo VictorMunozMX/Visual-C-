@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1erTerm\\Work\\114\\Final\\CircleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A451D5-CE5E-4F44-8F63-464168D73C0D}|CircleApp\\CircleApp.csproj|D:\\1erTerm\\Work\\114\\Final\\CircleApp\\circleapp\\circleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A451D5-CE5E-4F44-8F63-464168D73C0D}|CircleApp\\CircleApp.csproj|solutionrelative:circleapp\\circleapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CircleApp.cs",
+              "DocumentMoniker": "D:\\1erTerm\\Work\\114\\Final\\CircleApp\\CircleApp\\CircleApp.cs",
+              "RelativeDocumentMoniker": "CircleApp\\CircleApp.cs",
+              "ToolTip": "D:\\1erTerm\\Work\\114\\Final\\CircleApp\\CircleApp\\CircleApp.cs",
+              "RelativeToolTip": "CircleApp\\CircleApp.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T21:21:00.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

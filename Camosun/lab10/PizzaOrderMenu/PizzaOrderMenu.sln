@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOrderMenu", "PizzaOrderMenu\PizzaOrderMenu.csproj", "{E6D6B68C-9917-4948-A094-56D4D9307DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D6B68C-9917-4948-A094-56D4D9307DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D6B68C-9917-4948-A094-56D4D9307DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D6B68C-9917-4948-A094-56D4D9307DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D6B68C-9917-4948-A094-56D4D9307DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5489FC13-ED93-4D22-8903-D6BC585E242C}
+	EndGlobalSection
+EndGlobal
